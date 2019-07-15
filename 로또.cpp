@@ -1,3 +1,5 @@
+// 어소트락 유튜브 강의
+
 #include "pch.h"
 #include <ctime>
 #include <iostream>
