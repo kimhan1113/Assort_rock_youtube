@@ -32,6 +32,7 @@ void SetMaze(char Maze[21][21], PPOINT pPlayerPos,
 	pEndPos->y = 19;
 
 	*pPlayerPos = *pStartPos;
+	
 
 	strcpy_s(Maze[0],  "21100000000000000000");
 	strcpy_s(Maze[1],  "00111111111100000000");
